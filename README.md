@@ -15,7 +15,7 @@ Run npm start
 ## Videos
 
 The following videos show the e-commerce app's appearance
-![Video of Get All](./assets/employee-tracker.mp4)
+![Video of Get All]()
 
 ## Codebase
 
